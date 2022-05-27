@@ -1,7 +1,8 @@
-Mobile Robot Project
 
-- Part1: Wall Following
+This project have 3 seprarate parts. For each part we have:
 
-- Part2: Localization
+- Part1: Mobile Robot Wall Following
 
-- Part3: Path planning and obstacle avoidance
+- Part2: Mobile Robot Localization (using Kalman filter and Sensor Fusion)
+
+- Part3: Mobile Robot Path planning and obstacle avoidance (A* Algorithm)
