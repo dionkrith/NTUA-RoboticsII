@@ -8,4 +8,4 @@ In this course we made 2 projects. For each project we have:
 
 Both projects were made by simulation in Ros/Gazebo
 
-Details for each project in their directories
+Details for each project in its directories
