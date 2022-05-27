@@ -1,7 +1,11 @@
 # NTUA-RoboticsII
 
-Project1: Kinematic Control of Redantaunt Manipulator 
+In this course we made 2 projects. For each project we have:
 
-Project2: Mobile Robot
+- Project1: Kinematic Control of Redantaunt Manipulator 
+
+- Project2: Mobile Robot
 
 Both projects were made by simulation in Ros/Gazebo
+
+Details for each project in their directories
