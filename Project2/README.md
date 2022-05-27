@@ -1,6 +1,6 @@
 
--Part1: Wall Following
+- Part1: Wall Following
 
--Part2: Localization
+- Part2: Localization
 
--Part3: Path planning and obstacle avoidance
+- Part3: Path planning and obstacle avoidance
